@@ -1,8 +1,10 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/pYGGnGnY)
 # Python Data Processing and Array Manipulation  
 
 ## Participant Names  
-- **Participant 1:** [Name of Student 1]  
-- **Participant 2:** [Name of Student 2]  
+- **Participant 1:** [Omar Keita]  
+
+- **Participant 2:** [Daniel Kudum]  
 
 ## Description  
 This assignment involves debugging and completing the provided starter code to compute the sum of products for two matrices.  
